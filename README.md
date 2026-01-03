@@ -30,11 +30,11 @@ Smart Bash script organizm to automatically organize your downloads folder
 
   **Make the script executable:**
   
-  *chmod +x organize.sh*
+  *chmod +x organizm.sh*
 
   **Run the script:**
   
-  *./organize.sh*
+  *./organizm.sh*
 
 Organism will check your downloads folder and sort the files.
 The files will be moved to the appropriate folders: Images, Videos, Documents, Archives, Others.
